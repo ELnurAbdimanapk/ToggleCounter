@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ToggleCounter/static/css/main.0d257353.css",
+    "main.js": "/ToggleCounter/static/js/main.a9864239.js",
+    "index.html": "/ToggleCounter/index.html",
+    "main.0d257353.css.map": "/ToggleCounter/static/css/main.0d257353.css.map",
+    "main.a9864239.js.map": "/ToggleCounter/static/js/main.a9864239.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d257353.css",
+    "static/js/main.a9864239.js"
+  ]
+}
